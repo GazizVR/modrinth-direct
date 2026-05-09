@@ -62,7 +62,7 @@ Mods you've installed via Modrinth Direct appear in the **Installed** tab for ea
 ## Building from Source
 
 ```bash
-git clone https://github.com/GAZIZlikesLollipop/modrinth-direct.git
+git clone https://github.com/GazizVR/modrinth-direct.git
 cd modrinth-direct
 ./gradlew build
 ```
